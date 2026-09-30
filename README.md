@@ -84,6 +84,8 @@ Hold Y + left stick click for 1.7 seconds (again to close). It shows on the scre
   A / right trigger ...... toggle / select        B ...................... close
 Changes are saved to the config file straight away. It also starts the weapon / hand adjust modes.
 
+![Controller Layout](https://github.com/King-EJ/Twisted-Tower-VR-Mod/blob/main/TwistedTowerControllerLayout.jpg?raw=true) 
+
 CONFIG  -  BepInEx\config\twistedtower.vr.cfg  (created on first start; edits apply live)
 ---------------------------------------------------------------------------------------
 [General]  
