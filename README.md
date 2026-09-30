@@ -4,7 +4,7 @@ VR Mod for Twisted Tower
 TWISTED TOWER VR  -  VR mod for "Twisted Tower" (Unity 2022.3, IL2CPP, URP)
 =========================================================================
 
-Version 0.1.30 (test build on Quest 3 Virtual Desktop Game version 1.0.4.4.2).
+Version 0.1.31 (test build on Quest 3 Virtual Desktop Game version 1.0.4.4.2).
 
 WHAT IT DOES
 ------------
@@ -135,7 +135,7 @@ TROUBLESHOOTING
 
 CREDITS & LICENCES
 ------------------
-* Twisted Tower belongs to its developers Atmos Games. This is a free, fan-made, non-commercial mod.
+* [Twisted Tower](<https://store.steampowered.com/app/1575990/Twisted_Tower/>) belongs to its developers Atmos Games. This is a free, fan-made, non-commercial mod.
 * OpenXR.dll (native OpenXR bridge) by Astien (c) 2025 - free, non-commercial redistribution,
   see BepInEx\plugins\TTVR\LICENSES.
 * BepInEx - LGPL 2.1.
