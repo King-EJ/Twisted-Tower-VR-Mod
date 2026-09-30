@@ -56,6 +56,12 @@ In menus: left stick or right stick navigates, A = confirm, B = back.
 
 In the weapon wheel the right stick selects.
 
+MELEE
+-----
+  Swing the hammer / knife into an enemy, balloon, pumpkin, board, crate or lever to hit it - no trigger needed (the trigger still works).
+  No laser while a melee weapon is in hand.  [Weapons] MeleeSwing, MeleeSwingSpeed (lower = easier),
+  MeleeReach, MeleeRadius, MeleeCooldown, HideLaserOnMelee.
+
 The game shows its own gamepad button prompts - press the matching VR button above.
 
 ADJUSTING A WEAPON IN YOUR HAND (in game)
