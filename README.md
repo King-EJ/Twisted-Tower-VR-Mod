@@ -24,6 +24,8 @@ INSTALL
 1. Copy all files from TwistedTowerVRMod.zip into the game folder.
 2. Start SteamVR (or your OpenXR runtime), then start the game.
 
+To disable Mod: rename winhttp.dll to winhttp.dll.bak or  win http.dll  (or set enabled = false in doorstop_config.ini).
+
 CONTROLS (right-handed default - the VR controllers are a gamepad)
 ------------------------------------------------------------------
 Right trigger .......... fire (RT)
