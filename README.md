@@ -24,7 +24,8 @@ WHAT IT DOES
 INSTALL
 -------
 1. Copy all files from [TwistedTowerVRMod.zip](<https://github.com/King-EJ/Twisted-Tower-VR-Mod/releases/tag/TwistedTowerVRMod>) into the game folder.
-2. Start SteamVR (or your OpenXR runtime), then start the game.
+2. To update Copy all files from [TwistedTowerVRMod-a.zip](<https://github.com/King-EJ/Twisted-Tower-VR-Mod/releases/tag/TwistedTowerVRModa_updated>) into the game folder
+3. Start SteamVR (or your OpenXR runtime), then start the game.
 
 To disable Mod: rename winhttp.dll to winhttp.dll.bak or  win http.dll  (or set enabled = false in doorstop_config.ini).
 
